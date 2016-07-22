@@ -1,6 +1,6 @@
 FROM node:latest
 
-EXPOSE 10101
+EXPOSE 3000
 
 WORKDIR /app
 
